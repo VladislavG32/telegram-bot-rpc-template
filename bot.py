@@ -14,7 +14,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Ваш токен бота. Он будет подставлен из переменной окружения!
-TOKEN = os.getenv('BOT_TOKEN')  # Очень важно! Код читает токен из переменной, а не из файла.
+TOKEN = os.getenv('8425103412:AAEoB-y6mxML2vZukZOTubljCtG9NTPAxDk')  # Очень важно! Код читает токен из переменной, а не из файла.
 
 # ID чата вашей девушки (нужно заменить на реальный)
 GIRLFRIEND_CHAT_ID = "5391859020"  # Например: "123456789"
